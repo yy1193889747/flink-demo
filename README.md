@@ -1,0 +1,1 @@
+# [QuickStart](https://ci.apache.org/projects/flink/flink-docs-master/tutorials/datastream_api.html)
